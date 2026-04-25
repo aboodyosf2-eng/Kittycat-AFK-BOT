@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "kittycat AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "kittycat",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": "kittycat1.aternos.me",
+    "port": 51948,
     "version": "1.21.1"
   },
   "position": {
